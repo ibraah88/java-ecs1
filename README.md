@@ -1,6 +1,7 @@
 1 Utilisation de la mémoire partagée
 
 Le but de cet exercice est de coder une petite application Client/Serveur utilisant deux concepts important en informatique :
+
 — les verrous sur des portions de fichiers
 — des zones de mémoire associées à des fichiers (mapped-file memory) 
 
@@ -9,6 +10,7 @@ Les spécifications des programmes sont comme suit :
 1.1 Seveur
 
 Le serveur présente à l’utilisateur un petit menu (en console) permettant d’effectuer l’une des 4 actions suivantes :
+
 — initialisation d’un fichier de N × 4 octets, initialisé par des octets nuls, permettant de contenir N entiers Java.
 — commencement du monitoring d’un fichier. 
 
