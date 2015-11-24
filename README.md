@@ -1,3 +1,5 @@
+Rappels Unix, Généralités Client/Serveur, accès concurrent aux fichiers, fichiers mappés
+
 1 Utilisation de la mémoire partagée
 
 Le but de cet exercice est de coder une petite application Client/Serveur utilisant deux concepts important en informatique :
